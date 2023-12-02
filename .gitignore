@@ -1,11 +1,9 @@
 ﻿.idea
 config.json
-cookies.json
 start-sydney-gui.bat
 __pycache__
 test.py
 assets/test.html
 saves
-cookies*.json
 struct.json
 .history
